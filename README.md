@@ -11,3 +11,4 @@ The notebook includes:
 📈 Performance analysis with accuracy scores, confusion matrix, and visualizations
 
 The aim is to give a basic yet practical insight into how ML can be applied for trend prediction in the stock market. This is not financial advice—just a technical implementation for educational purposes.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ayush647646/Stock_Trend_Prediction/blob/main/Stock_Trend_Prediction.ipynb)
